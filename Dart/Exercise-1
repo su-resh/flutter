@@ -1,1 +1,42 @@
+// 1.Write a program to print your name in Dart.
+void main(){
+  var name = 'Suresh';
+  print ("My name is $name");
+}
 
+// 2.Write a program to print Hello I am “John Doe” and Hello I’am “John Doe” with single and double quotes.
+void main(){
+  String name= '"John Doe"';
+  print ('Hello I am $name ');
+  print ("Hello I'm $name ");
+}
+
+// 3.Declare constant type** of int set value 7.
+void main(){
+  const int num1 =7;
+  print (num1);
+}
+
+// 4.Write a program in Dart that finds simple interest.
+import 'dart:io';
+
+void main(){
+  print ("Enter the Principal\n");
+  int principal= int.parse(stdin.readLineSync()!);
+  print ("Enter the Time\n");
+  int time = int.parse(stdin.readLineSync()!);
+  print ("Enter the Rate\n");
+  int Rate = int.parse(stdin.readLineSync()!);
+  double SI = (principal*Rate*time)/100;
+  print("\nThe Simple Interest is $SI\n");
+}
+// 5. Write a program to print a square of a number using user input.
+
+import 'dart:io';
+
+void main(){
+  print("Enter the Number");
+  int num1 = int.parse(stdin.readLineSync()!);
+  int result = num1 * num1;
+  print("The Square of input is $result");
+}

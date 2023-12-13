@@ -94,3 +94,17 @@ void main(){
   int val = int.parse(value);
   print("The value in Integer is $val");
 }
+/* 11. Suppose, you often go to restaurant with
+ friends and you have to split amount of bill. Write a program to calculate
+ split amount of bill. Formula= (total bill amount) / number of people*/
+ import 'dart:io';
+
+void main()
+ {
+  print ("Enter the number of People");
+  int num1 = int.parse(stdin.readLineSync()!);
+  print ("Enter the amount");
+  double amount = double.parse(stdin.readLineSync()!);
+  double result = amount/num1;
+  print("The Equal amount of money is $result");
+ }

@@ -40,3 +40,57 @@ void main(){
   int result = num1 * num1;
   print("The Square of input is $result");
 }
+// 6. Write a program to print full name of a from first name and last name using user input.
+import 'dart:io';
+void main()
+{
+  print("Enter the first name");
+  String fName = stdin.readLineSync()!; 
+  print("Enter the second name");
+  String sName = stdin.readLineSync()!;
+  print("The full name of the person is $fName $sName");
+}  
+// 7. Write a program to find quotient and remainder of two integers.
+import 'dart:io';
+ void main()
+ {
+  print("Enter the first number");
+  int num1 = int.parse(stdin.readLineSync()!);
+  print("Enter the second number");
+  int num2 = int.parse(stdin.readLineSync()!);
+  double quotient = num1/num2;
+  int remainder = num1%num2;
+  print("""The quotient is $quotient
+        The remainder is $remainder""");
+ }
+
+// 8. Write a program to swap two numbers.
+import 'dart:io';
+void main (){
+  print ("Enter first number");
+  double num1 = double.parse(stdin.readLineSync()!);
+  print ("Enter second number");
+  double num2 = double.parse(stdin.readLineSync()!);
+  print("Before swapping values in 1 is $num1, 2 is $num2 ");
+  List temp = [num1, num2];
+  num1 = temp[1];
+  num2 = temp [0];
+  print("After Swaping values in 1 is $num1,2 is $num2");
+
+}
+// 9. Write a program to remove all the whiteSpaces from string.
+import 'dart:io';
+void main (){
+  print ("Enter the String");
+  String value = stdin.readLineSync()!;
+  print ("Before trimming $value ");
+  print ("After Trimming ${value.trim()}");
+}
+// 10. Write a dart program to convert String to int.
+import 'dart:io';
+void main(){
+  print ("Enter the variable in String");
+  String value = stdin.readLineSync()!;
+  int val = int.parse(value);
+  print("The value in Integer is $val");
+}

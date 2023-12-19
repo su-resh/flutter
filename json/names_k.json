@@ -1,0 +1,221 @@
+{
+  "girl_naame": [
+    {
+      "name": "Kumud",
+      "meaning": "Lotus",
+      "gender": "girl"
+    },
+    {
+      "name": "Kritika",
+      "meaning": "Name of a star, Virgo",
+      "gender": "girl"
+    },
+    {
+      "name": "Kamala",
+      "meaning": "Lotus",
+      "gender": "girl"
+    },
+    {
+      "name": "Krina",
+      "meaning": "Beauty, Compassion",
+      "gender": "girl"
+    },
+    {
+      "name": "Kumari",
+      "meaning": "Princess",
+      "gender": "girl"
+    },
+    {
+      "name": "Kavita",
+      "meaning": "Poem",
+      "gender": "girl"
+    },
+    {
+      "name": "Kamini",
+      "meaning": "Desirable, Beautiful",
+      "gender": "girl"
+    },
+    {
+      "name": "Krisha",
+      "meaning": "Divine, Holy",
+      "gender": "girl"
+    },
+    {
+      "name": "Kusum",
+      "meaning": "Flower",
+      "gender": "girl"
+    },
+    {
+      "name": "Kamya",
+      "meaning": "Desirable, Wish",
+      "gender": "girl"
+    },
+    {
+      "name": "Khushi",
+      "meaning": "Happiness",
+      "gender": "girl"
+    },
+    {
+      "name": "Kirti",
+      "meaning": "Fame, Glory",
+      "gender": "girl"
+    },
+    {
+      "name": "Kavya",
+      "meaning": "Poetry, Literary",
+      "gender": "girl"
+    },
+    {
+      "name": "Kiranmayi",
+      "meaning": "Full of light, Radiant",
+      "gender": "girl"
+    },
+    {
+      "name": "Kalyani",
+      "meaning": "Fortunate, Auspicious",
+      "gender": "girl"
+    },
+    {
+      "name": "Kabita",
+      "meaning": "Poem",
+      "gender": "girl"
+    },
+    {
+      "name": "Kartika",
+      "meaning": "Name of a Hindu month",
+      "gender": "girl"
+    },
+    {
+      "name": "Krithika",
+      "meaning": "Well-versed, Famous",
+      "gender": "girl"
+    },
+    {
+      "name": "Kalpana",
+      "meaning": "Imagination",
+      "gender": "girl"
+    },
+    {
+      "name": "Kavya",
+      "meaning": "Poetry, Literary",
+      "gender": "girl"
+    },
+    {
+      "name": "Kshitija",
+      "meaning": "Horizon",
+      "gender": "girl"
+    },
+    {
+      "name": "Kumari",
+      "meaning": "Princess",
+      "gender": "girl"
+    },
+    {
+      "name": "Kusumita",
+      "meaning": "Flower-like",
+      "gender": "girl"
+    },
+    {
+      "name": "Kushal",
+      "meaning": "Skillful",
+      "gender": "girl"
+    },
+    {
+      "name": "Kirtana",
+      "meaning": "Praising",
+      "gender": "girl"
+    },
+    {
+      "name": "Kanchan",
+      "meaning": "Gold",
+      "gender": "girl"
+    },
+    {
+      "name": "Kumkum",
+      "meaning": "Saffron",
+      "gender": "girl"
+    },
+    {
+      "name": "Kshirja",
+      "meaning": "Daughter of the ocean",
+      "gender": "girl"
+    },
+    {
+      "name": "Kaavya",
+      "meaning": "Poetry, Music",
+      "gender": "girl"
+    }
+  ],
+  "boys_name": [
+    {
+      "name": "Kartik",
+      "meaning": "Name of a Hindu month, Son of Lord Shiva",
+      "gender": "boys"
+    },
+    {
+      "name": "Kshemya",
+      "meaning": "Earth, Land",
+      "gender": "boys"
+    },
+    {
+      "name": "Kusumakar",
+      "meaning": "Spring, Flower",
+      "gender": "boys"
+    },
+    {
+      "name": "Kripa",
+      "meaning": "Grace, Compassion",
+      "gender": "boys"
+    },
+    {
+      "name": "Kshirin",
+      "meaning": "Moonlight, Milky",
+      "gender": "boys"
+    },
+    {
+      "name": "Kabir",
+      "meaning": "Great, Powerful",
+      "gender": "boys"
+    },
+    {
+      "name": "Kamlesh",
+      "meaning": "God of Lotus, Lord Vishnu",
+      "gender": "boys"
+    },
+    {
+      "name": "Kalyan",
+      "meaning": "Fortunate, Auspicious",
+      "gender": "boys"
+    },
+    {
+      "name": "Kiran",
+      "meaning": "Ray of light, Sunbeam",
+      "gender": "boys"
+    },
+    {
+      "name": "Kshetraj",
+      "meaning": "Lord of the fields",
+      "gender": "boys"
+    },
+    {
+      "name": "Kshiraj",
+      "meaning": "King of the ocean, Varuna",
+      "gender": "boys"
+    },
+    {
+      "name": "Krishna",
+      "meaning": "Dark, Lord Krishna",
+      "gender": "boys"
+    },
+    {
+      "name": "Kumar",
+      "meaning": "Prince, Youth",
+      "gender": "boys"
+    },
+    {
+      "name": "Kiranmay",
+      "meaning": "Full of Light",
+      "gender": "boys"
+    }
+  ]
+}

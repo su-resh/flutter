@@ -1,0 +1,251 @@
+{
+  "Girl_names": [
+    {
+      "name": "Yashmita",
+      "meaning": "Famous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yachana",
+      "meaning": "Request",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathna",
+      "meaning": "Effort",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashika",
+      "meaning": "Success",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathisha",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashoda",
+      "meaning": "Mother of Lord Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yastika",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yasmin",
+      "meaning": "Jasmine flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yonika",
+      "meaning": "Unique",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashna",
+      "meaning": "One who is always successful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yarisha",
+      "meaning": "Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yasmine",
+      "meaning": "Jasmine flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvika",
+      "meaning": "Young girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvati",
+      "meaning": "Young woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yatika",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashasvi",
+      "meaning": "Successful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuti",
+      "meaning": "Plan",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuthika",
+      "meaning": "Multitude of flowers",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashita",
+      "meaning": "Famous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yogita",
+      "meaning": "One who practices yoga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvanika",
+      "meaning": "Blossoming like a bud",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yosha",
+      "meaning": "Woman of good fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathira",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashitha",
+      "meaning": "Successful, prosperous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yovita",
+      "meaning": "Young girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yadhika",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    }
+  ],
+  "boys_name": [
+    {
+      "name": "Yatharth",
+      "meaning": "Truthful, reality",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yugal",
+      "meaning": "Pair, couple",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashas",
+      "meaning": "Fame, glory, success",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yug",
+      "meaning": "Era, age, period",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yudhishthir",
+      "meaning": "Eldest Pandava, steady in battle",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashwin",
+      "meaning": "Victorious, successful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogesh",
+      "meaning": "Lord of yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yajat",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashomukh",
+      "meaning": "Face of fame",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yajur",
+      "meaning": "A Vedic scripture",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogith",
+      "meaning": "One who practices yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashovardhan",
+      "meaning": "One who enhances glory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogiraj",
+      "meaning": "King of yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yugraj",
+      "meaning": "King of pairs",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashodhan",
+      "meaning": "One who possesses fame",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yudhir",
+      "meaning": "Brave, courageous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuvan",
+      "meaning": "Youthful, young",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogin",
+      "meaning": "One who practices yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashank",
+      "meaning": "One with a glorious mark",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yatharth",
+      "meaning": "True, real, accurate",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuvanesh",
+      "meaning": "Lord of youth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashvardhan",
+      "meaning": "One who increases glory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuthan",
+      "meaning": "New, fresh",
+      "gender": "Boy"
+    }
+  ]
+}
